@@ -1,0 +1,11 @@
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\bin\Debug\netcoreapp2.1\ISP.deps.json
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\bin\Debug\netcoreapp2.1\ISP.runtimeconfig.json
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\bin\Debug\netcoreapp2.1\ISP.runtimeconfig.dev.json
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\bin\Debug\netcoreapp2.1\ISP.dll
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\bin\Debug\netcoreapp2.1\ISP.pdb
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\obj\Debug\netcoreapp2.1\ISP.csprojAssemblyReference.cache
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\obj\Debug\netcoreapp2.1\ISP.csproj.CoreCompileInputs.cache
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\obj\Debug\netcoreapp2.1\ISP.AssemblyInfoInputs.cache
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\obj\Debug\netcoreapp2.1\ISP.AssemblyInfo.cs
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\obj\Debug\netcoreapp2.1\ISP.dll
+C:\Users\PAULM\Desktop\Soluciones\ISP\IManuable\obj\Debug\netcoreapp2.1\ISP.pdb

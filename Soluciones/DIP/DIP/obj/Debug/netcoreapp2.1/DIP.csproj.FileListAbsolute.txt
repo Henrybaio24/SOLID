@@ -1,0 +1,11 @@
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\obj\Debug\netcoreapp2.1\DIP.csprojAssemblyReference.cache
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\obj\Debug\netcoreapp2.1\DIP.csproj.CoreCompileInputs.cache
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\obj\Debug\netcoreapp2.1\DIP.AssemblyInfoInputs.cache
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\obj\Debug\netcoreapp2.1\DIP.AssemblyInfo.cs
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\bin\Debug\netcoreapp2.1\DIP.deps.json
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\bin\Debug\netcoreapp2.1\DIP.runtimeconfig.json
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\bin\Debug\netcoreapp2.1\DIP.runtimeconfig.dev.json
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\bin\Debug\netcoreapp2.1\DIP.dll
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\bin\Debug\netcoreapp2.1\DIP.pdb
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\obj\Debug\netcoreapp2.1\DIP.dll
+C:\Users\PAULM\Desktop\Soluciones\DIP\DIP\obj\Debug\netcoreapp2.1\DIP.pdb

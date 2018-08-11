@@ -1,0 +1,11 @@
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\bin\Debug\netcoreapp2.1\OSP.deps.json
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\bin\Debug\netcoreapp2.1\OSP.runtimeconfig.json
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\bin\Debug\netcoreapp2.1\OSP.runtimeconfig.dev.json
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\bin\Debug\netcoreapp2.1\OSP.dll
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\bin\Debug\netcoreapp2.1\OSP.pdb
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\obj\Debug\netcoreapp2.1\OSP.csprojAssemblyReference.cache
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\obj\Debug\netcoreapp2.1\OSP.csproj.CoreCompileInputs.cache
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\obj\Debug\netcoreapp2.1\OSP.AssemblyInfoInputs.cache
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\obj\Debug\netcoreapp2.1\OSP.AssemblyInfo.cs
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\obj\Debug\netcoreapp2.1\OSP.dll
+C:\Users\PAULM\Desktop\Soluciones\OSP\OSP\obj\Debug\netcoreapp2.1\OSP.pdb
